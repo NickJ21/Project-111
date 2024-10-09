@@ -1,0 +1,11 @@
+Autoincrement increases the ID number for every created object in the table
+What is primary key again?
+VARCHAR(#) = Variable Character that supports alphanumerical characters but not special symbols. The number inside the parenthesis is going to reserve that amount of character data (8 bits per character)
+TEXT = will use up to 1g of data for text but will not reserve it, often used for binary data
+BOOLEAN -> 1=true 0=false
+CRUDS acronym
+    1. create
+    2. read
+    3. update
+    4. delete
+    5. scan
